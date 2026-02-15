@@ -1,0 +1,4 @@
+station_id,n_particles,n_success,success_rate,station_lon,station_lat
+0,10000,188,0.0188,142.12,27.67
+1,10000,197,0.0197,142.13,27.07
+2,10000,210,0.021,142.12,26.67
