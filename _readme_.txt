@@ -17,6 +17,7 @@ These files are intended for visualization, quantitative evaluation, and supplem
 
 ## 2. GIF Animation
 Description:
+- Red: Mukojima; Green: Chichijima; Blue: Hahajima
 - Displays daily particle positions
 - Shows spatial dispersion over time
 - Useful for qualitative trajectory interpretation
