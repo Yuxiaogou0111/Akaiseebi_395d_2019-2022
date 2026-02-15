@@ -35,12 +35,6 @@ Contents of each frame:
 - Particle locations
 - Simulation date or day index
 
-These frames can be:
-- Used for high-resolution movie production
-- Combined into alternative animation formats
-- Used as individual supplementary figures
-
----
 
 ## 4. Return Rate CSV
 
@@ -56,11 +50,8 @@ Structure:
 
 Interpretation:
 
-- return_rate = 1 → All particles remain/return
-- return_rate = 0 → Complete export
 - Intermediate values indicate partial retention
-
-Return rate reflects physical transport only.
+- Return rate reflects physical transport only.
 
 ---
 
@@ -68,7 +59,6 @@ Return rate reflects physical transport only.
 
 - Missing frames indicate incomplete simulation output.
 - If GIF appears truncated, regenerate from full frame sequence.
-- Return rate values depend on the definition of release region.
 
 ---
 
